@@ -15,7 +15,7 @@ var completedTasksHolder = document.getElementById("completed-tasks");//complete
 
 
 //New task list item
-var createNewTaskElement = function (taskString) {
+var createNewTaskElement = function (taskStпшring) {
 
   var listItem = document.createElement("li");
 
